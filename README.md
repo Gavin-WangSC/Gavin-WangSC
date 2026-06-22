@@ -2,7 +2,7 @@
 
 I'm Gavin Wang, a student developer building educational software, campus tools, and social-impact technology.
 
-I work on projects around learning, accessibility, writing workflows, and community infrastructure. I’m especially interested in how software can support education, public-good systems, juvenile rehabilitation, and reentry.
+I work on projects around learning, accessibility, writing workflows, and community infrastructure. 
 
 - Pronouns: he/him
 - Languages: Shanghainese · Mandarin · English · Japanese
@@ -36,12 +36,6 @@ I work on projects around learning, accessibility, writing workflows, and commun
 - [`Prologue`](https://github.com/Computerization/Prologue) — a WeChat Mini Program project under Computerization, with mini-program code and cloud functions
 - [`c13n`](https://github.com/Gavin-WangSC/c13n) — Computerization's newsletter and publishing workflow, with an Astro web version and TeX/PDF generation
 - [`computerization.github.io`](https://github.com/Gavin-WangSC/computerization.github.io) — the public website for Computerization and its projects
-
-## Social impact
-
-I’m interested in juvenile rehabilitation, reentry, and the role of education in helping people return to society.
-
-I also care about technology accessibility: tools should be understandable, usable, and useful to people outside purely technical communities.
 
 ## Contact
 
